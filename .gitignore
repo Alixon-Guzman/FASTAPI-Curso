@@ -1,0 +1,40 @@
+# Entornos virtuales
+venv/
+.env/
+*.env
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.sqlite3
+*.db
+*.tmp
+*.swp
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Compilados y paquetes
+dist/
+build/
+*.egg-info/
+
+# pytest / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Configuración extra (si usas Jupyter o similares)
+.ipynb_checkpoints/
