@@ -1,0 +1,54 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+
+# Archivos de configuración locales
+*.sqlite3
+*.db
+instance/
+.env.local
+.env.*.local
+
+# Archivos de pruebas
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Archivos de logs
+*.log
+
+# Archivos generados por herramientas de calidad
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de dependencias
+pip-wheel-metadata/
+pip-log.txt
+
+# Archivos de despliegue y build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Archivos de GitHub Actions temporales
+.github/workflows/*.tmp
