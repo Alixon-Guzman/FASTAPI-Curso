@@ -21,5 +21,5 @@ Este proyecto corresponde a la **Semana 8** y contiene el desarrollo de las prá
 Clonar el repositorio:
 
 ```bash
-git clone https://github.com/<tu-usuario>/<tu-repo>.git
-cd <tu-repo>
+git clone https://github.com/Alixon-Guzman/FASTAPI-Curso.git
+cd FASTAPI-Curso/semana8
